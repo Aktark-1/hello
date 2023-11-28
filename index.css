@@ -1,0 +1,11 @@
+@import 'main/main.css';
+@import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css';
+body {
+  background-color: rgb(26, 255, 0);
+}
+body h2 {
+  background-color: red;
+}
+body h2 fa fa-car fa-2x {
+  background-color: rgb(132, 11, 120);
+}/*# sourceMappingURL=index.css.map */
